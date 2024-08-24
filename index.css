@@ -1,0 +1,80 @@
+.name
+{
+    margin-top:20%;
+    margin-left:5%;
+    font-size:75px;
+    background-color: black;
+    color:aqua;
+}
+.head
+{
+    display:flex;
+}
+.name1 
+{
+    color:antiquewhite;
+    font-size:30px;
+    margin-left:6%;
+}
+.name2
+{
+    color:antiquewhite;
+    font-size:30px;
+    margin-left: 10px;
+    
+}
+.main
+{
+    display:flex;
+    margin-left:6%;
+
+    
+}
+#main1
+{
+    color:antiquewhite;
+    font-size:20px;
+    border:1px solid rgb(62, 53, 53);
+    padding:5px;
+    
+    
+}
+#main1 a
+{
+    color:antiquewhite;
+    text-decoration: none;
+}
+#main1 a:hover
+{
+    color:aquamarine;
+    
+}
+.body{
+    background-color:black;
+}
+.body1
+{
+margin-top: 60px;
+margin-left:50px;
+font-size:50px;
+font-weight:70%;
+color:aqua;
+
+}
+.body1{
+    background-color: black;
+}
+  }
+  #effect{
+    width: 50%;
+    height: 50px;
+    
+    color: black;
+    position: absolute;
+    top: 550px;
+    left:90px;
+    color: white;
+    font-size: 30px;
+    font-family: "newyork";
+  }
+  
